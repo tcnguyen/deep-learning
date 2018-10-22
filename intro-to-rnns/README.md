@@ -1,0 +1,1 @@
+floyd run --data trongcanh/datasets/texts/1:data  --gpu --env tensorflow-1.11 "python anna_rnns.py"
